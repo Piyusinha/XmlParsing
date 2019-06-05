@@ -52,6 +52,6 @@ public class feedentry {
         return "name=" + name + '\n' +
                 ", artist=" + artist + '\n' +
                 ", releasedate=" + releasedate + '\n' +
-                ", imageurl=" + imageurl + '\n' ;
+                ", imageurl=" + imageurl + '\n';
     }
 }

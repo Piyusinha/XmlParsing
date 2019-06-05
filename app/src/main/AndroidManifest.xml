@@ -4,8 +4,7 @@
     <uses-permission android:name="android.permission.INTERNET"/>
 
     <application
-        android:hardwareAccelerated="false"
-        android:largeHeap="true"
+
         android:usesCleartextTraffic="true"
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
